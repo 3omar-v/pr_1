@@ -1,0 +1,37 @@
+
+body
+{
+    background-color:#b5cdd1;
+}
+nav
+{
+    background:linear-gradient(45deg,#b518fece,rgb(171, 171, 171));
+}
+nav .box i
+{
+    color: white;
+}
+.navbar-brand {
+
+    color: white;
+
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color:white;
+}
+.box_image
+{
+    background-image: url("./../pexels-creative-vix-9754.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 90vh;
+}
+.color_web
+{
+    background-color: #b518fe;
+}
+.text_color
+{
+    color: #b518fe;
+}
